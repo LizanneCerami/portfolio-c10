@@ -1,0 +1,54 @@
+/* .main img figiure{
+  overflow: hidden;
+}
+.main img{
+  transition: 1.1s ease-in-out;
+  transform: scale(1.3);
+} */
+
+.gallery-card{
+  margin: 10px;
+}
+
+.gallery-card .card-img {
+  border-radius: 0;
+}
+
+.gallery-card-article {
+  padding: 10px;
+}
+
+.gallery-card figure {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.gallery-card figure img{
+  transition: 1.1s ease-out;
+}
+
+.gallery-card figure img:hover {
+  transform: scale(1.3);
+}
+
+.button-effect {
+  display: block;
+  transform: scale(1.0);
+  transition: transform 0.23s ease-in-out;
+}
+
+.button-effect:hover {
+  transform: scale(1.13);
+  filter: drop-shadow(0 0 10px rgba(0, 5, 9, 0.319));
+  z-index: 999;
+}
+
+/* Disable hover effects on mobile */
+@media (max-width: 768px) {
+  .button-effect:hover
+  {
+    transform: scale(1.0);
+    filter: none;
+  }
+}
