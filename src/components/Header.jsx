@@ -1,10 +1,10 @@
-
+import { Container } from "react-bootstrap"
 
 export default function Header() {
 
   return(
-    <>
-      <h1>Header</h1>
-    </>
+    <Container className= "main-background" >
+  
+    </Container>
   )
 }
