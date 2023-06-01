@@ -7,19 +7,42 @@
 } */
 
 .main-container { 
-  background-image: url("/public/images/whimsybackground.webp");
+  background-image: url("/public/images/background.jpeg");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position:inherit;
   background-size: cover;
-  color: white;
+  color: rgb(55, 244, 247);
+}
+
+.about-container {
+  /* border: 2px solid blue; */
+  background-color: rgba(250, 206, 76, 0.348);
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 75px;
+  justify-content: center;
+  box-shadow:     
+    0px 100px 250px rgba(146, 11, 236, 0.478),
+    0px 25px 30px rgba(236, 11, 52, 0.641);;
 }
 
 .about-header1 {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   margin-top: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  justify-content: center;
+  text-align: center;
 }
 .about-header2{
-  border: 2px solid red;
+  /* border: 2px solid red; */
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  justify-content: center;
+  text-align: center;
+  font-size: x-large;
+  font-weight: 700;
 }
 
 .gallery-card{
