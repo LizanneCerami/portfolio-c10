@@ -7,23 +7,23 @@
 } */
 
 .main-container { 
-  background-image: url("/public/images/background.jpeg");
+  background-image: url("/public/images/background.jpg");
   background-repeat: no-repeat;
   background-position:inherit;
   background-size: cover;
-  color: rgb(55, 244, 247);
+  color: rgb(20, 195, 226);
 }
 
 .about-container {
   /* border: 2px solid blue; */
-  background-color: rgba(250, 206, 76, 0.348);
+  background-color: rgba(231, 140, 204, 0.212);
   margin-top: 50px;
   margin-bottom: 50px;
   margin-right: 75px;
   justify-content: center;
   box-shadow:     
-    0px 100px 250px rgba(146, 11, 236, 0.478),
-    0px 25px 30px rgba(236, 11, 52, 0.641);;
+    0px 100px 250px rgba(11, 198, 236, 0.478),
+    0px 25px 30px rgba(11, 176, 236, 0.641);;
 }
 
 .about-header1 {
