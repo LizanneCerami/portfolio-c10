@@ -1,33 +1,33 @@
 [
   {
     "id": 1,
-    "name": "Tribute",
+    "name": "Tribute Page",
     "content": "Tribute to the person I admire most, my mom.",
-    "website": "https://bocacode.com",
+    "website": "https://lizannecerami.github.io/admiration-project/",
     "cover": "https://picsum.photos/400/400?random=1"
   },
   {
     "id": 2,
+    "name": "About Me",
+    "content": "About Me",
+    "website": "https://about-me-page-lc.web.app/",
+    "cover": "https://picsum.photos/400/400?random=4"
+  },
+  {
+    "id": 3,
+    "name": "On Island Time",
+    "content": "Relax and unwind on Island Time",
+    "website": "https://on-island-time-clock-lc.web.app/",
+    "cover": "https://picsum.photos/400/400?random=3"
+  },
+  {
+    "id": 4,
     "name": "Kardashev Scale",
     "content": "Tribute to our fellow beloved",
     "website": "https://bocacode.com",
     "cover": "https://picsum.photos/400/400?random=2"
   },
-  {
-    "id": 3,
-    "name": "BlueNight in Seoul",
-    "content": "Tribute to our fellow beloved",
-    "website": "https://bocacode.com",
-    "cover": "https://picsum.photos/400/400?random=3"
-  },
-  {
-    "id": 4,
-    "name": "About Me",
-    "content": "About Me",
-    "website": "https://bocacode.com",
-    "cover": "https://picsum.photos/400/400?random=4"
-  },
-  {
+    {
     "id": 5,
     "name": "Counter",
     "content": "Counter React.js",
