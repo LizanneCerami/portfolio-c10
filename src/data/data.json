@@ -22,15 +22,15 @@
   },
   {
     "id": 4,
-    "name": "Kardashev Scale",
-    "content": "Tribute to our fellow beloved",
+    "name": "Water Tracker",
+    "content": "A mobile water tracking app",
     "website": "https://bocacode.com",
     "cover": "https://picsum.photos/400/400?random=2"
   },
     {
     "id": 5,
-    "name": "Counter",
-    "content": "Counter React.js",
+    "name": "Fur-Ever Friend",
+    "content": "A mobile app to match shelter dogs to their ideal owner",
     "website": "https://bocacode.com",
     "cover": "https://picsum.photos/400/400?random=5"
   },
