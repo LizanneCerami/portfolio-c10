@@ -8,7 +8,7 @@ export default function Skill() {
       <Container>
         <Row>
           <Col className="text-center">
-            <h2>Skills that Pay the Bills</h2>
+            <h2>My Skills</h2>
           </Col>
         </Row>
 
